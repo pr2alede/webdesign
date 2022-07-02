@@ -1,0 +1,71 @@
+
+body{
+  margin: 0 10%;
+}
+.section {
+  border: 2px solid #000000;
+  padding:10px;
+  margin: 10px auto;
+}
+
+.box{
+  display:inline-block;
+  text-align:center;
+  width:33%;
+  min-height:100px;
+  margin: 20px auto;
+}
+
+.fontbox{
+  display:inline-block;
+  border: 2px solid black;
+  width:45%;
+  
+ 
+  
+  
+
+}
+
+.fontTitle{
+  font-size: 20px;
+  text-decoration: underline;
+}
+ 
+
+
+.roboto{
+font-family: 'Roboto', sans-serif;
+}
+
+.arima{
+font-family: 'Arima', cursive;
+}
+
+.gantari{
+
+font-family: 'Gantari', sans-serif;
+
+}
+
+
+
+.lightCyan{
+background-color: #C7EAE4;
+}
+.celadon{
+background-color: #A7E8BD;
+}
+.spanishpink{
+background-color: #FCBCB8;
+}
+.yellow{
+background-color: #FFD972;
+}
+
+.colorlabels{
+  margin:auto;
+}
+
+
+
